@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction to Project 1}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Rewriting the equation in matrix-form}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Different algorithm to solve this set of linear equations}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{self-programmed algorithm }{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Gaussian elimination}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{LU-decomposition}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Resuluts and discussion of the self-programmed algorithm}{}% 7
+\BOOKMARK [1][-]{section.4}{Comparison of self-programmed algorithm, Gaussian elemination and LU-Decomposition }{}% 8
+\BOOKMARK [1][-]{section.5}{Source-code}{}% 9
